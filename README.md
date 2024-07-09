@@ -6,7 +6,7 @@ The Weather App is a simple web application that provides current weather inform
 ## Features
 - **Search for current weather: Users can search for the current weather by city and country name**
 - **Display weather information: Temperature, weather conditions, and different icons**
-- 
+  
 ## Technologies Used
 - HTML
 - CSS
